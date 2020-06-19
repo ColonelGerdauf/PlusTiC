@@ -1,15 +1,10 @@
-# PlusTiC (Minus Bad) AKA xXx_MoreToolMats_xXx
+# PlusTiC V2
 Minecraft mod for adding new tools to and integrating various mods with Tinkers Construct
-
-CurseForge page: https://www.curseforge.com/minecraft/mc-mods/plusticminusbad
 ## New tool(s)
 - Katana. A fast two-handed weapon that deals increasing damage the more mobs you kill.
-- Laser Gun. A ranged weapon that requires durability and energy (Forge, Tesla, RF).
 ## A note about Natural Pledge
 Starting in 5.1.2.0, PlusTiC forces out and *overrides* Natural Pledge TiC materials by default. This can be changed in the config so that PlusTiC does *not* add Botania materials if Natural Pledge is loaded.
-## Supported mods
-- LandCore (by this mod's author)
-- LandCraft (also by this mod's author)
+## Supported mod
 - Biomes o Plenty by Glitchfiend
 - Project Red by MrTJP
 - Mekanism by aidencbrady
@@ -52,3 +47,5 @@ Creator/Lead Developer: @Landmaster
 Chinese translation: @DYColdWind
 
 New weapon textures: @Tenebris11
+
+8.2.x tweaks: @Colonel_Gerdauf
